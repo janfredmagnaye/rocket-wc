@@ -1,0 +1,39 @@
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    margin-top: 2%;
+}
+
+.moby-wrap .moby-menu nav ul li.menu-item {
+    width: 100%;
+}
+
+.moby.left-side, .right-side {
+	width: 100% !important;
+}
+
+#moby-button .hamburger {
+	padding: 10px 0;
+}
+
+.moby * {
+	display: block;
+}
+
+.align-left {
+	float: left;
+}
+
+.align-right {
+	float: right;
+}
+
+.darkmode--activated p, .darkmode--activated li {
+  color: #000;
+}
+
+.button {
+  isolation: isolate;
+}
+
+.darkmode--activated .logo {
+  mix-blend-mode: difference;
+}
